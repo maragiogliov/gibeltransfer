@@ -41,7 +41,7 @@ export function Navbar() {
             className="flex items-center margin mt-2"
           >
          <img
-            src="/assets/gibellogowhitesimple.png"
+            src="/public/assets/gibellogowhitesimple.png"
             alt="Gibel Transfer"
             className="h-18 lg:h-18 w-auto object-contain"
           />

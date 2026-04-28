@@ -16,7 +16,7 @@ export function About() {
           >
             <div className="relative">
               <ImageWithFallback
-                src="/assets/van-in-gibel.webp"
+                src="/public/assets/van-in-gibel.webp"
                 alt="Luxury Mercedes van"
                 className="rounded-lg shadow-2xl w-full h-[600px] object-cover"
               />
